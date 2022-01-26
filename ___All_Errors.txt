@@ -1,0 +1,34 @@
+CorrelationId: 9f0ef1cc-5649-4735-ade3-717ab1d50ad3
+UTC DateTime: 2022-01-25 ?? 2:29:42
+
+The following files/folders have not been downloaded
+1. Some_Project/Assets/Asset/PolygonGangWarfare/Models/SM_Bld_Roof_End_02.fbx
+2. Some_Project/Assets/Asset/PolygonGangWarfare/Models/SM_Bld_Roof_End_02.fbx.meta
+3. Some_Project/Assets/Asset/PolygonGangWarfare/Models/SM_Bld_Roof_Flat_Closed_01.fbx
+4. Some_Project/Assets/Asset/PolygonGangWarfare/Models/SM_Bld_Roof_Flat_Closed_01.fbx.meta
+5. Some_Project/Assets/Asset/PolygonGangWarfare/Models/SM_Bld_Roof_Flat_Corner_01.fbx
+6. Some_Project/Assets/Asset/PolygonGangWarfare/Models/SM_Bld_Roof_Flat_Corner_01.fbx.meta
+7. Some_Project/Assets/Asset/PolygonGangWarfare/Models/SM_Bld_Roof_Flat_Corner_126.fbx
+8. Some_Project/Assets/Asset/PolygonGangWarfare/Models/SM_Bld_Roof_Flat_Corner_126.fbx.meta
+9. Some_Project/Assets/Asset/PolygonGangWarfare/Prefabs
+10. Some_Project/Assets/Asset/PolygonGangWarfare/Scenes
+11. Some_Project/Assets/Asset/PolygonGangWarfare/Textures
+12. Some_Project/Assets/Asset/PolygonZombies
+13. Some_Project/Assets/Asset/SimpleFX
+14. Some_Project/Assets/Asset/SimpleSky
+15. Some_Project/Assets/Asset/SMC Pack 1
+16. Some_Project/Assets/Audio
+17. Some_Project/Assets/Font
+18. Some_Project/Assets/Meterial
+19. Some_Project/Assets/Model
+20. Some_Project/Assets/PolygonHeist
+21. Some_Project/Assets/Prefebs
+22. Some_Project/Assets/Scenes
+23. Some_Project/Assets/Scripts
+24. Some_Project/Assets/Sprite
+25. Some_Project/Library
+26. Some_Project/Logs
+27. Some_Project/obj
+28. Some_Project/Packages
+29. Some_Project/ProjectSettings
+30. Some_Project/Temp
